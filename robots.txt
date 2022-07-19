@@ -1,0 +1,2 @@
+Sitemap: https://mpocashslot.vercel.app/sitemap.xml
+User-agent: *
